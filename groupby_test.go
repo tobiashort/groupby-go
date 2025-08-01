@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/tobiashort/groupby"
+	"github.com/tobiashort/groupby-go"
 )
 
 func TestGroupBy(t *testing.T) {
